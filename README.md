@@ -1,9 +1,8 @@
 # Data Analytics Pipeline Using Apache Spark
 
-This project involves  
-1. Explored the Apache Spark framework and programming: spark context (sc), dataflow operations in transformations, actions, pipelines and    MLib.  
-2. Using data analytics knowledge (word frequency, word-co-occurrence) and machine learning skills, performed multi-class                      classification of text data using Apache Spark.  
-3. Built a data pipeline using  
+This project involves    
+1. Using data analytics knowledge (word frequency, word-co-occurrence) and machine learning skills, performed multi-class                      classification of text data using Apache Spark.  
+2. Built a data pipeline using  
    -  Data from sources such as NY Times articles using the APIs provided by the data sources.  
    -  Split the data into training and test data set.  
    -  Extract features that will determine the class or category of the article {politics, sports, business, movies}  
